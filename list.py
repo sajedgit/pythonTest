@@ -1,0 +1,1 @@
+print('sammy'[2:])
