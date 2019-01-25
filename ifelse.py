@@ -7,3 +7,13 @@ if 5>9:
 
 else:
     print("222")
+
+
+name="Korim"
+
+if name=="sajed":
+    print("name is {}".format(name))
+elif name=="Rahim":
+    print("name is {}".format(name))
+elif name=="Korim":
+    print("name is {}".format(name))
