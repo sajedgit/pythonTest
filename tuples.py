@@ -1,0 +1,7 @@
+t = ('one',2)
+print(len(t))
+print(t.index(2))
+print("First index of t == ",t[1])
+print(f"First index of t == {t[1]}")
+print("First index of t == %d" %t[1])
+print("First index of t == {}".format(t[0]))
