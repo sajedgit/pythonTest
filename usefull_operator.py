@@ -23,3 +23,7 @@ c=int(input("enter the min no:\n"))
 d=int(input("enter the max no:\n"))
 k=randint(c,d)
 print(k)
+
+word="Print only the words that start with s in this sentence"
+lst = [x for x in word]
+print(lst)
