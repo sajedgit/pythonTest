@@ -14,3 +14,9 @@ st = 'Create a list of the first letters of every word in this string'
 st=st.split()
 a=[word[0] for word in st]
 print(a)
+
+
+import tkinter
+top = tkinter.Tk()
+# Code to add widgets will go here...
+top.mainloop()
